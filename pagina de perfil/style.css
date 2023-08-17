@@ -1,0 +1,29 @@
+.img{
+    display: flex;
+     justify-content: center;
+    border-radius: 50%;
+    }
+    .profile{
+    color: rgb(100, 20, 175);
+   justify-content: center;
+   display: flex;
+}
+    
+    .informação{
+    color: rgb(5, 5, 121);
+   height: 30%;
+
+}
+    .profile20{
+    color:rgb(51, 44, 44) ;
+    justify-content: center;
+    display: flex;
+    height: 20%;
+      }
+    .corpo{
+        font-family:Geneva;
+    background-color: rgb(190, 183, 183);
+}
+ h1{
+  font-family: Arial; }
+  
